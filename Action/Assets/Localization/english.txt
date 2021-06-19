@@ -1,0 +1,34 @@
+PLAY|PLAY
+QUIT|QUIT
+LVLSELECT|Level selection
+LVL1|1 - Valentin M.
+LVL2|2 - Thibaut R.
+LVL3|3 - Georges V.
+LVL4|4 - Antonin L.
+LVL5|5 - Marceau T.
+LANGUAGE|Language: English
+BACK|Back
+RESUME|Keep Playing
+RETRY|Retry Level
+NEXT|Next level
+CONTROLS|Show Controls
+MENU|Main Menu
+PAUSE|Paused
+GAMEOVER|Game Over
+YOUWIN|You win
+CHECKPOINT|Load last checkpoint
+AMBULANCE|If only I could find the keys...
+OBSTACLE|A kind of shadow is surrounding this obstacle.
+AMBULANCEKEY|You found the keys of the ambulance !
+SWITCH|Press X
+WATCHMANDOOR|A simple key will be enough to unlock this door.
+WATCHMANKEY|You found the watchman's key !
+FLASHLIGHT|This flashlight is... special...
+MIRROR|Maybe I can use this mirror.\
+BARNKEY|You found the key of the barn
+WINDOWS|The light of a lamp street go through that window, I can make use of that
+CRUN|Run
+CMOVE|Move
+CLOOK|Look arround
+CJUMP|Jump
+CINTERACT|Interact

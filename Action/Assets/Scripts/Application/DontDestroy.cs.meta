@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Action/Assets/Scripts/Application/DontDestroy.cs.meta
+guid: 370a4171da1aec34e96d2abc3b1a1580
+=======
+guid: f734a0c5ebd74dd479c9ad7ca9e834a4
+>>>>>>> GP:Action/Assets/Scripts/Enemy/Pause.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

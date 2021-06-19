@@ -1,0 +1,18 @@
+<<<<<<< HEAD:Action/Assets/Prefabs/Application.meta
+fileFormatVersion: 2
+guid: 74f4fce6a37da70449933d3f70d585f0
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: dba54942da97a0b4ba72a6aebd9b707b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> GP:Action/Assets/Prefabs/Enemy/TrapInvisible.prefab.meta

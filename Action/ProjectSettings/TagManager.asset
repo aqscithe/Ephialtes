@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Grabbable
+  - Light
+  - Spawn_Player
+  - Spawn_Enemy
+  - Background
+  - UpperEdge
+  - LowerEdge
+  - Enemy_Light
+  - Spawn_Enemy_Light
+  - Enemy_Dark
+  - Spawn_Enemy_Dark
+  - Mirror
+  - Glass
+  - Trap
+  - World_Light
+  - Interactible
+  - TransformedEnemy
+  - NullZone
+  - Player_Light
+  - PressurePlate
+  - Shredder
+  - OutOfBounds
+  - Platform
+  - Checkpoint
+  - HUD
+  - LightDoor
+  - Thunder
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Green
+  - Blue
+  - Red
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 389945941
+    locked: 0
+  - name: 2
+    uniqueID: 3663459425
+    locked: 0
+  - name: 3
+    uniqueID: 1734146981
+    locked: 0
+  - name: 4
+    uniqueID: 1113704645
+    locked: 0

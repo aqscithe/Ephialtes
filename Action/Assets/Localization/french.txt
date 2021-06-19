@@ -1,0 +1,34 @@
+PLAY|JOUER
+QUIT|QUITTER
+LVLSELECT|Séléction de niveaux
+LVL1|1 - Valentin M.
+LVL2|2 - Thibaut R.
+LVL3|3 - Georges V.
+LVL4|4 - Antonin L.
+LVL5|5 - Marceau T.
+LANGUAGE|Langue: Français
+BACK|Retour
+RESUME|Reprendre
+RETRY|Recommencer
+NEXT|Prochain niveau
+CONTROLS|Afficher les commandes
+MENU|Menu principal
+PAUSE|En pause
+GAMEOVER|Vous avez perdu
+YOUWIN|Vous avez gagné
+CHECKPOINT|Charger le dernier point de sauvegarde
+AMBULANCE|Si seulement je pouvais retrouver les clés...
+OBSTACLE|Une sorte d'ombre entoure cette obstacle.
+AMBULANCEKEY|Vous avez récupéré les clés de l'ambulance
+SWITCH|Appuyer sur X
+WATCHMANDOOR|Une simple clé suffirait à ouvrir cette porte...
+WATCHMANKEY|Vous avez récupéré la clé du gardien
+FLASHLIGHT|Cette lampe... Elle est spéciale...
+MIRROR|Je peux sûrement me servir de ce miroir.
+BARNKEY|Vous avez trouvé la clé de la grange
+WINDOWS|La lumière d'un lampadaire passe par cette fenêtre, je dois pouvoir en profiter
+CRUN|Courir
+CMOVE|Se déplacer
+CLOOK|Regarder aux alentours
+CJUMP|Sauter
+CINTERACT|Interagir
