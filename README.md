@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Ephialtès - Unity 2.5D Project](#ephialt-s---unity-25d-project)
     + [Description](#description)
+    + [INSTALLATION](#installation)
     + [Player Abilities](#player-abilities)
     + [Controls](#controls)
     + [Enemies](#enemies)
@@ -26,6 +27,22 @@
 
 ### Description
 Ephialtès is a puzzle/platform game that takes place in a dark and disturbing world. The light will by your best ally as you solve puzzles, activate plateforms and defend yourself against the shadows.
+
+## INSTALLATION
+
+To simply play the game:
+- Download the latest build: https://game-project-assets.s3.amazonaws.com/Ephialtes/Ephialtes_Build_Gold.zip
+- Extract the zip
+- Launch from "Ephialtes.exe"
+
+To launch from Unity:
+- Requires minimum Unity version of 2019.4.0f1
+- Download ZIP of code & extract.
+- Download assets here: https://game-project-assets.s3.amazonaws.com/Ephialtes/Assets.zip
+- Extract assets into the "/Action/Assets" directory of project
+- Place the assets folder in parent directory
+- Open Unity Hub and click Add
+- Navigate to parent directory of project and click Open.
 
 ### Player Abilities
 ![character.png](./SCREENS/character.png)
